@@ -1,5 +1,4 @@
 import numpy as np
-import copy 
 
 class Stick:
     def __init__(self, inputStickComponentList):
